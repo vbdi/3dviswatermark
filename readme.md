@@ -9,20 +9,7 @@ This is the notebook for reproducing the results of the "Towards Secure and Usab
 
 ## Video Demo
 
-
-```python
-%%HTML
-<video width="1280" controls>
-    <source src="https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/video_demo.mp4" type="video/mp4">
-</video>
-```
-
-
-<video width="1280" controls>
-    <source src="https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/video_demo.mp4" type="video/mp4">
-</video>
-
-
+![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/video_demo.mp4)
 
 ## Download and extract the code
 
