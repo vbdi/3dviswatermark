@@ -1,5 +1,6 @@
 # Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking
 This is the notebook for reproducing the results of the "Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking" paper accepted for publication in WACV2025.
+Link to the paper: https://arxiv.org/abs/2409.00314
 
 <p align="center">
 <center>
