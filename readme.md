@@ -1,6 +1,9 @@
 # Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking
 This is the notebook for reproducing the results of the "Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking" paper accepted for publication in WACV2025.
+
 Link to the paper: https://arxiv.org/abs/2409.00314
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=15adbaaa-2583-4ec3-804a-61c29f001e03)
 
 <p align="center">
 <center>
