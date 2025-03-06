@@ -1,19 +1,19 @@
-# Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking
-This is the notebook for reproducing the results of the "Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking" paper accepted for publication in WACV2025.
+# **Towards Secure and Usable 3D Assets: A Novel Framework for Automatic Visible Watermarking (WACV 2025 Oral)**  
 
-Link to the paper: https://arxiv.org/abs/2409.00314
+📄 **Paper:** [arXiv 2409.00314](https://arxiv.org/pdf/2409.00314)  
+🖥️ **Conference:** WACV 2025 (Oral)  
+📂 **Code Repository:** [GitHub Link](#)  
+👨‍💻 **Authors:** Gursimran Singh, Tianxi Hu, Mohammad Akbari, Qiang Tang, Yong Zhang  
+🏢 **Huawei's AI Gallery Notebook:** [Link](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264)  
+📹 **Video Samples:** [Download](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/video_demo.mp4)  
 
-Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=15adbaaa-2583-4ec3-804a-61c29f001e03)
 
+## Framework
 <p align="center">
 <center>
 <img src="https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/framework.png" alt="alt text" width="1000">
 </center>
 </p> 
-
-## Video Demo
-
-![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/3dwatermark/video_demo.mp4)
 
 ## Download and extract the code
 
